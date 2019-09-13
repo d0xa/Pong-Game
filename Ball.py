@@ -1,4 +1,8 @@
 class Ball:
+	def __init__():
+		ballSize = 2;
+		ballXSpeed = 1.0;
+		ballYSpeed = 1.0;
 	def __init__(size,xSpeed,ySpeed):
 		ballSize = size;
 		ballXSpeed = type(float)xSpeed;
@@ -18,7 +22,7 @@ class Ball:
 			if(RandomSpeedBool):
 
 			else:
-				
+
 
 
 
